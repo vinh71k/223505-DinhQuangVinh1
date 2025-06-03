@@ -1,2 +1,3 @@
 Name: Dinh Quang Vinh  
 Interests: Coding, Design  
+skill: lua chua 
